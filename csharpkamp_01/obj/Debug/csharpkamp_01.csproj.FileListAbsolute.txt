@@ -1,0 +1,7 @@
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\bin\Debug\csharpkamp_01.exe.config
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\bin\Debug\csharpkamp_01.exe
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\bin\Debug\csharpkamp_01.pdb
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\obj\Debug\csharpkamp_01.csproj.AssemblyReference.cache
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\obj\Debug\csharpkamp_01.csproj.CoreCompileInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\obj\Debug\csharpkamp_01.exe
+C:\Users\cucin\Desktop\c# ödevler\csharpkamp\csharpkamp_01\obj\Debug\csharpkamp_01.pdb
